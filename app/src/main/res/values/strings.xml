@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cavista_Demo</string>
+    <string name="opps">Opps Its Empty, Nothing To Show Here</string>
+    <string name="no_internet">Please Check Internet Connection</string>
+    <string name="Search">Enter Text In Search Box To Get Result</string>
+    <string name="comment">Enter comment (max 40 characters)</string>
+    <string name="submit">Add</string>
+    <string name="no_comment_added">No Comment Found To Add</string>
+    <string name="your_comment">Your comment : </string>
+    <string name="added_comment">Added Comment Successfully</string>
+    <string name="error_in_adding_comment">Error In Adding Comment</string>
+    <string name="no_comment">No comment added yet</string>
+</resources>

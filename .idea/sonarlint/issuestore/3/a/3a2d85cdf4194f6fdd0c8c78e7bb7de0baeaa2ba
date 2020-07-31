@@ -1,0 +1,5 @@
+
+j	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Ş‹×8 Éğû¹.
+o	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÈÍÿúÿÿÿÿ8 Éğû¹.
+N
+java:S1128"1Remove this unused import 'com.google.gson.Gson'.(–§8óÙöû¹.

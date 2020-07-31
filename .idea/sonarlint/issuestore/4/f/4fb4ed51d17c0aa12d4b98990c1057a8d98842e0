@@ -1,0 +1,8 @@
+
+p
+java:S3008"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÝ½æøÿÿÿÿ8­Èðû¹.
+O
+java:S1128	"2Remove this unused import 'android.view.MenuItem'.(Ð¬Ó‘8‹“ù‚º.
+b
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î8­Èðû¹.
+o	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þŽ·§ÿÿÿÿÿ8›âÖü¹.
